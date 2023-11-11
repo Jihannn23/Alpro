@@ -102,7 +102,7 @@ void checkout () {
 	cout << "\t Tggl Check out \t: ";
 	string checkout;
 	cin >> checkout;
-};
+}
 
 int main() {
 	int i;
